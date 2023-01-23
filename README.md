@@ -3,7 +3,7 @@
 - #### 🏫 VIT Vellore 📖 BTech in Computer Science with spec in IoT
 - #### 🔭 I’m currently working on Embedded Systems and trying to maintain my college CGPA 😜
 - #### 👯 Interested in collaborations 🫱🏻‍🫲🏻 on IoT and Embedded Systems
-- #### 📫 You can reach me through [`E-mail`](ashok.tirupatimahanti@gmail.com)
+- #### 📫 You can reach me through E-mail: ashok.tirupatimahanti@gmail.com
 - #### 👨‍💻 Good in programmming - 3 star rating on [`CodeChef`](https://www.codechef.com/users/hash_oak)
 
 <!--
