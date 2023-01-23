@@ -1,11 +1,12 @@
-### Hi there 👋
-## This is Ashok Tirupatimahanti
+### 👋 Hi there! This is Ashok Tirupatimahanti
+---
+- #### 🏫 VIT Vellore 📖 BTech in Computer Science with spec in IoT
+- #### 🔭 I’m currently working on Embedded Systems and trying to maintain my college CGPA 😜
+- #### 👯 Interested in collaborations 🫱🏻‍🫲🏻 on IoT and Embedded Systems
+- #### 📫 You can reach me through [`E-mail`](ashok.tirupatimahanti@gmail.com)
+- #### 👨‍💻 Good in programmming - 3 star rating on [`CodeChef`](https://www.codechef.com/users/hash_oak)
 
 <!--
-**hashoak/hashoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
