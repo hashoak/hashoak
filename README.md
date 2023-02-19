@@ -5,7 +5,7 @@
 - #### 👯 Interested in collaborations 🫱🏻‍🫲🏻 on IoT, Embedded Systems or Networking
 - #### 📫 You can reach me through E-mail: ashok.tirupatimahanti@gmail.com
 - #### 👨‍💻 Good in programmming - 3 star rating on [`CodeChef`](https://www.codechef.com/users/hash_oak)
-- #### My hobbies are to getting bored of my old hobbies and searching for new ones 😁
+- #### My hobbies are getting bored of my old hobbies and searching for new ones 😁
 
 <!--
 - 🔭 I’m currently working on ...
