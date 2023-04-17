@@ -6,6 +6,7 @@
 - #### 📫 You can reach me through E-mail: ashok.tirupatimahanti@gmail.com
 - #### 👨‍💻 Good in programmming - 3 star rating on [`CodeChef`](https://www.codechef.com/users/hash_oak)
 - #### My hobbies are getting bored of my old hobbies and searching for new ones 😁
+- #### Connect with me on 🔗 [LinkedIn](https://www.linkedin.com/in/ashok-tirupatimahanti)
 
 <!--
 - 🔭 I’m currently working on ...
