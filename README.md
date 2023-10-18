@@ -1,7 +1,6 @@
 ### 👋 Hi there! This is Ashok Tirupatimahanti
 ---
 - #### 🏫 VIT Vellore 📖 BTech in Computer Science with spec in IoT
-- #### 🏢 Project Intern at Advanced Systems Laboratory, DRDO
 - #### 🔭 Currently working on Embedded Systems and PCB Design (also on maintaining my college CGPA 😜)
 - #### 👯 Interested in collaborations 🫱🏻‍🫲🏻 on IoT, Embedded Systems or System Automation
 - #### 📫 You can reach me through E-mail: ashok.tirupatimahanti@gmail.com
